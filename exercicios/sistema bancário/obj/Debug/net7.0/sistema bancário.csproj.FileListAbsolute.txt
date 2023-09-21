@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\sistema bancário.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\sistema bancário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\sistema bancário.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\sistema bancário.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\sistema bancário.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\bin\Debug\net7.0\sistema bancário.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\bin\Debug\net7.0\sistema bancário.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\bin\Debug\net7.0\sistema bancário.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\bin\Debug\net7.0\sistema bancário.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\bin\Debug\net7.0\sistema bancário.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\sistema bancário.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\refint\sistema bancário.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\sistema bancário.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\sistema bancário.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\exercicios\sistema bancário\obj\Debug\net7.0\ref\sistema bancário.dll

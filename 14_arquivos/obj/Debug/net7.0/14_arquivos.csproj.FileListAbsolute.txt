@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\14_arquivos.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\14_arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\14_arquivos.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\14_arquivos.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\14_arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\bin\Debug\net7.0\14_arquivos.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\bin\Debug\net7.0\14_arquivos.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\bin\Debug\net7.0\14_arquivos.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\bin\Debug\net7.0\14_arquivos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\bin\Debug\net7.0\14_arquivos.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\14_arquivos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\refint\14_arquivos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\14_arquivos.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\14_arquivos.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\14_arquivos\obj\Debug\net7.0\ref\14_arquivos.dll

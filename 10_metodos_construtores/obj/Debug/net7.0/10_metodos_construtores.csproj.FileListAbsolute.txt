@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\bin\Debug\net7.0\10_metodos_construtores.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\bin\Debug\net7.0\10_metodos_construtores.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\bin\Debug\net7.0\10_metodos_construtores.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\bin\Debug\net7.0\10_metodos_construtores.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\bin\Debug\net7.0\10_metodos_construtores.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\10_metodos_construtores.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\10_metodos_construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\10_metodos_construtores.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\10_metodos_construtores.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\10_metodos_construtores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\10_metodos_construtores.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\refint\10_metodos_construtores.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\10_metodos_construtores.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\10_metodos_construtores.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\10_metodos_construtores\obj\Debug\net7.0\ref\10_metodos_construtores.dll

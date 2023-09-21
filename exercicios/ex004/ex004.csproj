@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
+
+class Exercicio
+{
+    public static void Main()
+    {
+        int resultadoDobro = Dobrar(3);
+        int resultadoMetade = Dividir(8);
+        Console.WriteLine(resultadoDobro);
+        Console.WriteLine(resultadoMetade);
+        tabuadacomWhile();
+    }
+
+    public static int Dobrar(int n1)
+    {
+        int dobro = n1 * 2;
+        return(dobro);
+    }
+
+
+    public static int Dividir(int n2)
+    {
+      int metade = n2 / 2;
+      return(metade);
+    }
+
+    public static void tabuadacomWhile(){
+        Console.WriteLine("Digite um numero:");
+        int num = int.Parse(Console.ReadLine);
+        int x = 1;
+        do{
+            Console.WriteLine($"{num} x {x} = {num*x}");
+            x+;
+        }
+        while(x <= 10);
+    }
+    public static int somar (int n1; int n2)
+    {
+        int somar = n1 + n2;
+        return n1 + n2;
+    }
+}
+   

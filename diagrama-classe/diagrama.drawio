@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-08-25T17:04:04.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4jOrdibA8CqSH4Q89ogP" version="21.6.9" type="device">
+  <diagram name="Página-1" id="vTx268QVwkkDPQdLz3VR">
+    <mxGraphModel dx="618" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r4gyAmahW56MiAO1z5-V-1" value="gato" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="271" y="200" width="286" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="r4gyAmahW56MiAO1z5-V-4" value="+ miar(): void&lt;br&gt;+ dormir(): void&lt;br&gt;+ correr(): void&lt;br&gt;+ arranhar(): void&lt;br&gt;+ beber(): void&lt;br&gt;+ pular(): void&lt;br&gt;+ morder(): void" style="text;strokeColor=#36393d;fillColor=#ffff88;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="r4gyAmahW56MiAO1z5-V-1">
+          <mxGeometry y="26" width="286" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r4gyAmahW56MiAO1z5-V-2" value="+cor :string&lt;br&gt;+nome: string&lt;br&gt;+idade: int&lt;br&gt;+raça:string&lt;br&gt;+genêro:&lt;br&gt;+olho:string&lt;br&gt;+doméstico:string&lt;br&gt;+carinhoso:string&amp;nbsp;&lt;br&gt;+peso:decimal" style="text;strokeColor=#36393d;fillColor=#cce5ff;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="r4gyAmahW56MiAO1z5-V-1">
+          <mxGeometry y="106" width="286" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="r4gyAmahW56MiAO1z5-V-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="r4gyAmahW56MiAO1z5-V-1">
+          <mxGeometry y="240" width="286" height="8" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

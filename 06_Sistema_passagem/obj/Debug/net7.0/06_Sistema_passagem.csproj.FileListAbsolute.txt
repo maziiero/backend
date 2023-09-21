@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\bin\Debug\net7.0\06_Sistema_passagem.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\bin\Debug\net7.0\06_Sistema_passagem.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\bin\Debug\net7.0\06_Sistema_passagem.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\bin\Debug\net7.0\06_Sistema_passagem.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\bin\Debug\net7.0\06_Sistema_passagem.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\06_Sistema_passagem.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\06_Sistema_passagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\06_Sistema_passagem.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\06_Sistema_passagem.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\06_Sistema_passagem.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\06_Sistema_passagem.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\refint\06_Sistema_passagem.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\06_Sistema_passagem.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\06_Sistema_passagem.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\06_Sistema_passagem\obj\Debug\net7.0\ref\06_Sistema_passagem.dll

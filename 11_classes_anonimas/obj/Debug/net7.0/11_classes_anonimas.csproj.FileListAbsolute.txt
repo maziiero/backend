@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\bin\Debug\net7.0\11_classes_anonimas.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\bin\Debug\net7.0\11_classes_anonimas.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\bin\Debug\net7.0\11_classes_anonimas.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\bin\Debug\net7.0\11_classes_anonimas.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\bin\Debug\net7.0\11_classes_anonimas.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\11_classes_anonimas.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\11_classes_anonimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\11_classes_anonimas.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\11_classes_anonimas.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\11_classes_anonimas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\11_classes_anonimas.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\refint\11_classes_anonimas.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\11_classes_anonimas.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\11_classes_anonimas.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\11_classes_anonimas\obj\Debug\net7.0\ref\11_classes_anonimas.dll
