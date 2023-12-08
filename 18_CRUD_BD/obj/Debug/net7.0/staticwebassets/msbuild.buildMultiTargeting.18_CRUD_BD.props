@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\18_CRUD_BD.props" />
+</Project>

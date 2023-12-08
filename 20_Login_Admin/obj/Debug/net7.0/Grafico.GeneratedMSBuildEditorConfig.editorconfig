@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Grafico
+build_property.RootNamespace = Grafico
+build_property.ProjectDir = c:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\20_Login_Admin\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\back-end\20_Login_Admin
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Continente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGluZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Continente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGluZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Continente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGluZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Continente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGluZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Continente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGluZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Pais/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFpc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Pais/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFpc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Pais/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFpc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Pais/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFpc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Pais/Grafico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFpc1xHcmFmaWNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Pais/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFpc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jpqi6592i3
+
+[c:/Users/Aluno/OneDrive - SESISENAISP - Escolas/maziero/2  semestre/back-end/20_Login_Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d6g61qxsyb
